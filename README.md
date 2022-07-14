@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Stefaniscion
-- 👀 I’m interested in toucan and also, somethimes, programming
-- 🌱 I’m currently learning Node.Js
+### 👋 Hi
 
-<!---
-Stefaniscion/Stefaniscion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m @Stefaniscion, a Full Stack Developer that likes toucans.
+Somethimes also i like programming and stuff...
+
+🌍 I'm from Rome, Italy
+💻 I'm currently employed, but i'm open to new work opportunities
+🌱 I'm currently studing React.js
+📬 Reach me at stefaniscion@gmail.com
