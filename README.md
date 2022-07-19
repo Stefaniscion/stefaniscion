@@ -1,7 +1,7 @@
 # 👋 Hi
 
 I’m @Stefaniscion, a Full Stack Developer that likes toucans.
-Somethimes also i like programming and stuff...
+Somethimes i like also write some junk code...
 
 ## About me
 
