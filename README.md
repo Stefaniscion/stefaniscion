@@ -14,5 +14,14 @@ Somethimes also i write junk code.
 
 ### My Stats
 <!--START_SECTION:waka-->
+
+```text
+Python     59 mins         ████████████░░░░░░░░░░░░░   47.71 %
+YAML       24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Rust       22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+sh         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+```
+
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion)](https://github.com/anuraghazra/github-readme-stats)
