@@ -11,6 +11,14 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: Stefaniscion/stefaniscion
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          SHOW_TITLE: false
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
