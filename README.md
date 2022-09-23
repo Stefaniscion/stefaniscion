@@ -12,4 +12,9 @@ Somethimes also i write junk code.
 - 🐧 I love Linux: btw i use Arch.
 - 📬 Reach me at stefaniscion@gmail.com
 
+## My activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion)](https://github.com/anuraghazra/github-readme-stats)
