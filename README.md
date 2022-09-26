@@ -8,7 +8,7 @@ Somethimes also i write junk code.
 - 🌍 I'm from Rome, Italy.
 - 💻 I code in different languages: Python, PHP, C++, Node.JS, JavaScript...
 - 💼 I'm currently employed, but i'm always open to new work opportunities.
-- 🌱 I'm currently studing Rust.
+- 🌱 I'm currently studying Rust.
 - 🐧 I love Linux!
 - 📬 Reach me at stefaniscion@gmail.com.
 
