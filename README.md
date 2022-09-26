@@ -12,7 +12,7 @@ Somethimes also i write junk code.
 - 🐧 I love Linux!
 - 📬 Reach me at stefaniscion@gmail.com.
 
-### My Stats
+### My Last 7 Days Activity
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,4 +25,6 @@ Batchfile    4 mins          ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion)](https://github.com/anuraghazra/github-readme-stats)
