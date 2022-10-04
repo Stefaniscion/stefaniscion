@@ -16,12 +16,10 @@ Somethimes also i write junk code.
 <!--START_SECTION:waka-->
 
 ```text
-PHP             6 hrs 39 mins   ████████████████░░░░░░░░░   64.32 %
-Python          3 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.63 %
-Bash            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-HTML            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Apache Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP        5 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.43 %
+Python     3 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   39.03 %
+Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
