@@ -16,9 +16,9 @@ Somethimes also i write junk code.
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 59 mins    ███████████████████▓░░░░░   79.05 %
-PHP      31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python   2 hrs 5 mins    ███████████████████▒░░░░░   77.19 %
+PHP      31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+JSON     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
