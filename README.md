@@ -16,9 +16,12 @@ I also write some junk code.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 56 mins   ████████████▒░░░░░░░░░░░░   49.65 %
-Python       2 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.20 %
-Other        27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Python       3 hrs 19 mins   ██████████████▒░░░░░░░░░░   56.87 %
+Markdown     1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Bash         47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Text         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Docker       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
