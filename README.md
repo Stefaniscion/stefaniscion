@@ -16,10 +16,7 @@ I also write some junk code.
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 mins          ████████████████████▒░░░░   80.77 %
-Text     1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-CSV      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
