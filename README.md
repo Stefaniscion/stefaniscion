@@ -16,7 +16,11 @@ I also write some junk code.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       2 hrs           █████████████████░░░░░░░░   68.01 %
+Text         39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
