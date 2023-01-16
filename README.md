@@ -12,19 +12,5 @@ I also write some junk code.
 - 🐧 I love Linux!
 - 📬 Reach me at stefaniscion@gmail.com.
 
-## My Last 7 Days Activity
-<!--START_SECTION:waka-->
-
-```text
-Python       4 hrs 22 mins   ███████████████████████▒░   93.81 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-```
-
-<!--END_SECTION:waka-->
-
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion)](https://github.com/anuraghazra/github-readme-stats)
