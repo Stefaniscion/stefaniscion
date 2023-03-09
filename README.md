@@ -13,4 +13,6 @@ I also write some junk code.
 - 📬 Reach me at stefaniscion@gmail.com.
 
 ## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniscion&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
