@@ -14,5 +14,5 @@ I also write some junk code.
 
 ## My Stats
 <!-- GitHub Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion&theme=dark&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniscion&theme=dark&layout=compact&exclude_repo=hello-rust)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniscion&theme=dark&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniscion&theme=dark&layout=compact&exclude_repo=hello-rust&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
