@@ -1,13 +1,13 @@
 # 👋 Hi
 
-I’m @Stefaniscion, a Full Stack Developer that likes toucans.
-I also write some junk code.
+I’m @Stefaniscion Full Stack Developer 
+I love programming and also toucans.
 
 ## About me
 
 - 🌍 I'm from Rome, Italy.
 - 💻 I code in different languages: Python, PHP, C++, Node.JS, JavaScript...
-- 💼 I'm currently employed, but i'm always open to new work opportunities.
+- 💼 I'm currently employed, but I'm always open to new work opportunities.
 - 🌱 I'm currently studying Rust.
 - 🐧 I love Linux!
 - 📬 Reach me at stefaniscion@gmail.com.
