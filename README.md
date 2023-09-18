@@ -6,9 +6,9 @@ I love programming and also toucans.
 ## About me
 
 - 🌍 I'm from Rome, Italy.
-- 💻 I code in different languages: Python, PHP, C++, Node.JS, JavaScript...
+- 💻 I can code in different languages: Python, PHP, C++, Node.JS, JavaScript...
 - 💼 I'm currently employed, but I'm always open to new work opportunities.
-- 🌱 I'm currently studying Rust.
+- 🌱 I'm currently studying Rust and some other stuff.
 - 🐧 I love Linux!
 - 📬 Reach me at stefaniscion@gmail.com.
 
